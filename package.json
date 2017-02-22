@@ -1,0 +1,19 @@
+{
+  "name": "html-to-excel",
+  "version": "1.0.1",
+  "description": "这是一款将html导出为excel的插件，已解决编码问题，目前支持ie、Firefox、chrome、Safari浏览器。",
+  "main": "htmlToExcel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppya0812/htmlToExcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppya0812/htmlToExcel/issues"
+  },
+  "homepage": "https://github.com/ppya0812/htmlToExcel#readme"
+}
